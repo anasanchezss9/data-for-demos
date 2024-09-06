@@ -1,3 +1,4 @@
+CodigoCliente,Titulo,PrimeiroNome,UltimoNome,Idade,Sexo,Endereco,Cidade,UF,UFCompleto,CEP,Pais,PaisCompleto,Email,RendaMensal,PercentualUtilizacaoLimite,QtdTransacoesNegadas,AnosDeRelacionamentoBanco,JaUsouChequeEspecial,QtdEmprestimos,NumeroAtendimentos,TMA,IndiceSatisfacao,Saldo,CLTV,CanalPref,Churn
 9980,Sra.,Manuela,Melo,42,Feminino,Rua Vitória Regia 673,Teresópolis,RJ,Rio de Janeiro,25966-203,BR,Brazil,ManuelaDiasMelo@dayrep.com,9958,1.0,2,20,0,0,45,79,3,8618,52,SMS,1,,2024-09-03T00:32:45.337Z
 9981,Sr.,Marcos,Pereira,33,Masculino,Rua Antônio Medalha 269,Ourinhos,SP,São Paulo,19907-320,BR,Brazil,MarcosCavalcantiPereira@einrot.com,4674,0.99,15,6,0,2,21,158,2,6240,89,Ligacao,1,,2024-09-03T00:32:45.337Z
 9982,Sr.,Otávio,Correia,50,Masculino,Praça Ernesto Che Guevara 1460,Contagem,MG,Minas Gerais,32210-405,BR,Brazil,OtavioCunhaCorreia@jourrapide.com,3819,0.99,12,5,1,5,47,139,5,2351,66,Ligacao,1,,2024-09-03T00:32:45.337Z

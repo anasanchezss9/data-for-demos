@@ -1,3 +1,4 @@
+CodigoCliente,Titulo,PrimeiroNome,UltimoNome,Idade,Sexo,Endereco,Cidade,UF,UFCompleto,CEP,Pais,PaisCompleto,Email,RendaMensal,PercentualUtilizacaoLimite,QtdTransacoesNegadas,AnosDeRelacionamentoBanco,JaUsouChequeEspecial,QtdEmprestimos,NumeroAtendimentos,TMA,IndiceSatisfacao,Saldo,CLTV,CanalPref,Churn
 99990,Sr.,Gabriel,Rodrigues,26,Masculino,Rua José Vaz de Carvalho 1495,Itatiba,SP,São Paulo,13252-748,BR,Brazil,GabrielAzevedoRodrigues@dayrep.com,3473,0.45,11,6,0,4,1,0,5,2346,77,Ligacao,0,,2024-09-03T00:32:45.337Z
 99991,Sr.,Luiz,Ribeiro,63,Masculino,Rua Mucajaí 729,São Paulo,SP,São Paulo,04084-040,BR,Brazil,LuizOliveiraRibeiro@gustr.com,5605,0.91,7,4,0,2,41,103,2,4452,73,Ligacao,1,,2024-09-03T00:32:45.337Z
 99992,Sra.,Camila,Ferreira,64,Feminino,Rua Açaí 42,Fortaleza,CE,Ceará,60176-480,BR,Brazil,CamilaPereiraFerreira@cuvox.de,6962,0.86,0,16,0,5,11,46,0,2141,53,Push,1,,2024-09-03T00:32:45.337Z

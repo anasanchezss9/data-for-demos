@@ -1,3 +1,4 @@
+CodigoCliente,Titulo,PrimeiroNome,UltimoNome,Idade,Sexo,Endereco,Cidade,UF,UFCompleto,CEP,Pais,PaisCompleto,Email,RendaMensal,PercentualUtilizacaoLimite,QtdTransacoesNegadas,AnosDeRelacionamentoBanco,JaUsouChequeEspecial,QtdEmprestimos,NumeroAtendimentos,TMA,IndiceSatisfacao,Saldo,CLTV,CanalPref,Churn
 9970,Sr.,Diogo,Sousa,62,Masculino,Rua Joaquim Egydio Orsi 1044,Campinas,SP,São Paulo,13061-201,BR,Brazil,DiogoFerreiraSousa@superrito.com,3054,0.18,5,0,0,3,1,2,5,2826,84,Email,0,,2024-09-03T00:32:45.337Z
 9971,Sra.,Giovana,Dias,47,Feminino,Rua dos Ituanos 1822,São Paulo,SP,São Paulo,04203-030,BR,Brazil,GiovanaBarbosaDias@teleworm.us,3789,1.0,3,2,0,2,25,88,1,4665,58,SMS,1,,2024-09-03T00:32:45.337Z
 9972,Sra.,Vitoria,Barros,60,Feminino,Rua Hugo Rangel 1464,Gravataí,RS,Rio Grande do Sul,94198-320,BR,Brazil,VitoriaCavalcantiBarros@gustr.com,3877,0.33,10,2,1,3,3,6,5,6972,48,Ligacao,0,,2024-09-03T00:32:45.337Z
