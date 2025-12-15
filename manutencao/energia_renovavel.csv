@@ -1,0 +1,98 @@
+id_parque,nome_parque,tipo_fonte,data_geracao,geracao_mwh,velocidade_vento_ms,irradiancia_solar_wh_m2,disponibilidade_percentual
+401,Eólico de Guamaré,Eólica,2025-09-28,1500.0,8.5,,98.5
+402,Solar de Alto Sertão,Solar,2025-09-28,800.0,,5500.0,99.2
+403,Eólico de Beberibe,Eólica,2025-09-28,1200.0,7.9,,97.8
+404,Solar de Bom Jesus da Lapa,Solar,2025-09-28,950.0,,6200.0,99.5
+405,Eólico de Mangue Seco,Eólica,2025-09-28,1800.0,9.1,,99.0
+401,Eólico de Guamaré,Eólica,2025-09-27,1450.0,8.2,,98.6
+402,Solar de Alto Sertão,Solar,2025-09-27,810.0,,5600.0,99.3
+403,Eólico de Beberibe,Eólica,2025-09-27,1250.0,8.1,,97.5
+404,Solar de Bom Jesus da Lapa,Solar,2025-09-27,940.0,,6150.0,99.6
+405,Eólico de Mangue Seco,Eólica,2025-09-27,1780.0,9.0,,99.1
+401,Eólico de Guamaré,Eólica,2025-09-26,1520.0,8.6,,98.4
+402,Solar de Alto Sertão,Solar,2025-09-26,790.0,,5450.0,99.1
+403,Eólico de Beberibe,Eólica,2025-09-26,1180.0,7.7,,98.0
+404,Solar de Bom Jesus da Lapa,Solar,2025-09-26,960.0,,6250.0,99.4
+405,Eólico de Mangue Seco,Eólica,2025-09-26,1810.0,9.2,,98.9
+401,Eólico de Guamaré,Eólica,2025-09-25,1480.0,8.4,,98.7
+402,Solar de Alto Sertão,Solar,2025-09-25,805.0,,5550.0,99.0
+403,Eólico de Beberibe,Eólica,2025-09-25,1220.0,8.0,,97.6
+404,Solar de Bom Jesus da Lapa,Solar,2025-09-25,945.0,,6180.0,99.5
+405,Eólico de Mangue Seco,Eólica,2025-09-25,1790.0,9.1,,99.2
+401,Eólico de Guamaré,Eólica,2025-08-10,1600.0,9.5,,99.5
+402,Solar de Alto Sertão,Solar,2025-08-10,850.0,,6000.0,99.8
+403,Eólico de Beberibe,Eólica,2025-08-10,1300.0,8.5,,98.2
+404,Solar de Bom Jesus da Lapa,Solar,2025-08-10,1000.0,,6500.0,99.9
+405,Eólico de Mangue Seco,Eólica,2025-08-10,1900.0,9.8,,99.4
+401,Eólico de Guamaré,Eólica,2025-08-11,1580.0,9.4,,99.4
+402,Solar de Alto Sertão,Solar,2025-08-11,840.0,,5950.0,99.7
+403,Eólico de Beberibe,Eólica,2025-08-11,1280.0,8.4,,98.3
+404,Solar de Bom Jesus da Lapa,Solar,2025-08-11,990.0,,6450.0,99.8
+405,Eólico de Mangue Seco,Eólica,2025-08-11,1880.0,9.7,,99.3
+401,Eólico de Guamaré,Eólica,2025-07-05,1400.0,8.0,,97.0
+402,Solar de Alto Sertão,Solar,2025-07-05,750.0,,5000.0,98.5
+403,Eólico de Beberibe,Eólica,2025-07-05,1100.0,7.5,,96.5
+404,Solar de Bom Jesus da Lapa,Solar,2025-07-05,900.0,,5800.0,98.8
+405,Eólico de Mangue Seco,Eólica,2025-07-05,1700.0,8.8,,98.0
+401,Eólico de Guamaré,Eólica,2025-07-06,1420.0,8.1,,97.2
+402,Solar de Alto Sertão,Solar,2025-07-06,760.0,,5100.0,98.6
+403,Eólico de Beberibe,Eólica,2025-07-06,1120.0,7.6,,96.8
+404,Solar de Bom Jesus da Lapa,Solar,2025-07-06,910.0,,5850.0,98.9
+405,Eólico de Mangue Seco,Eólica,2025-07-06,1720.0,8.9,,98.2
+406,Eólico Potiguar,Eólica,2025-09-28,2100.0,9.5,,99.3
+407,Solar da Bahia,Solar,2025-09-28,1100.0,,6800.0,99.7
+406,Eólico Potiguar,Eólica,2025-09-27,2050.0,9.3,,99.2
+407,Solar da Bahia,Solar,2025-09-27,1150.0,,6900.0,99.8
+406,Eólico Potiguar,Eólica,2025-09-26,2120.0,9.6,,99.4
+407,Solar da Bahia,Solar,2025-09-26,1080.0,,6750.0,99.6
+406,Eólico Potiguar,Eólica,2025-09-25,2080.0,9.4,,99.1
+407,Solar da Bahia,Solar,2025-09-25,1120.0,,6850.0,99.7
+401,Eólico de Guamaré,Eólica,2025-09-29,1510.0,8.5,NULL,98.6
+402,Solar de Alto Sertão,Solar,2025-09-29,805.0,NULL,5520.0,99.3
+403,Eólico de Beberibe,Eólica,2025-09-29,1210.0,7.9,NULL,97.9
+404,Solar de Bom Jesus da Lapa,Solar,2025-09-29,955.0,NULL,6220.0,99.6
+405,Eólico de Mangue Seco,Eólica,2025-09-29,1805.0,9.1,NULL,99.1
+406,Eólico Potiguar,Eólica,2025-09-29,2105.0,9.5,NULL,99.4
+407,Solar da Bahia,Solar,2025-09-29,1105.0,NULL,6820.0,99.8
+401,Eólico de Guamaré,Eólica,2025-09-30,1490.0,8.4,NULL,98.4
+402,Solar de Alto Sertão,Solar,2025-09-30,795.0,NULL,5480.0,99.1
+403,Eólico de Beberibe,Eólica,2025-09-30,1190.0,7.8,NULL,97.7
+404,Solar de Bom Jesus da Lapa,Solar,2025-09-30,945.0,NULL,6180.0,99.5
+405,Eólico de Mangue Seco,Eólica,2025-09-30,1795.0,9.0,NULL,99.0
+406,Eólico Potiguar,Eólica,2025-09-30,2095.0,9.4,NULL,99.2
+407,Solar da Bahia,Solar,2025-09-30,1095.0,NULL,6780.0,99.7
+401,Eólico de Guamaré,Eólica,2025-10-01,1505.0,8.5,NULL,98.5
+402,Solar de Alto Sertão,Solar,2025-10-01,802.0,NULL,5510.0,99.2
+403,Eólico de Beberibe,Eólica,2025-10-01,1205.0,7.9,NULL,97.8
+404,Solar de Bom Jesus da Lapa,Solar,2025-10-01,952.0,NULL,6210.0,99.6
+405,Eólico de Mangue Seco,Eólica,2025-10-01,1802.0,9.1,NULL,99.1
+406,Eólico Potiguar,Eólica,2025-10-01,2102.0,9.5,NULL,99.3
+407,Solar da Bahia,Solar,2025-10-01,1102.0,NULL,6810.0,99.8
+401,Eólico de Guamaré,Eólica,2025-06-15,1350.0,7.8,NULL,96.0
+402,Solar de Alto Sertão,Solar,2025-06-15,720.0,NULL,4800.0,98.0
+403,Eólico de Beberibe,Eólica,2025-06-15,1050.0,7.2,NULL,95.5
+404,Solar de Bom Jesus da Lapa,Solar,2025-06-15,880.0,NULL,5600.0,98.2
+405,Eólico de Mangue Seco,Eólica,2025-06-15,1650.0,8.5,NULL,97.5
+406,Eólico Potiguar,Eólica,2025-06-15,2000.0,9.0,NULL,98.8
+407,Solar da Bahia,Solar,2025-06-15,1050.0,NULL,6500.0,99.0
+401,Eólico de Guamaré,Eólica,2025-06-16,1370.0,7.9,NULL,96.2
+402,Solar de Alto Sertão,Solar,2025-06-16,730.0,NULL,4850.0,98.1
+403,Eólico de Beberibe,Eólica,2025-06-16,1070.0,7.3,NULL,95.8
+404,Solar de Bom Jesus da Lapa,Solar,2025-06-16,890.0,NULL,5650.0,98.3
+405,Eólico de Mangue Seco,Eólica,2025-06-16,1670.0,8.6,NULL,97.7
+406,Eólico Potiguar,Eólica,2025-06-16,2020.0,9.1,NULL,98.9
+407,Solar da Bahia,Solar,2025-06-16,1060.0,NULL,6550.0,99.1
+401,Eólico de Guamaré,Eólica,2025-05-20,1300.0,7.5,NULL,95.0
+402,Solar de Alto Sertão,Solar,2025-05-20,700.0,NULL,4500.0,97.5
+403,Eólico de Beberibe,Eólica,2025-05-20,1000.0,7.0,NULL,94.0
+404,Solar de Bom Jesus da Lapa,Solar,2025-05-20,850.0,NULL,5400.0,97.8
+405,Eólico de Mangue Seco,Eólica,2025-05-20,1600.0,8.2,NULL,96.5
+406,Eólico Potiguar,Eólica,2025-05-20,1950.0,8.8,NULL,98.0
+407,Solar da Bahia,Solar,2025-05-20,1000.0,NULL,6300.0,98.5
+401,Eólico de Guamaré,Eólica,2025-05-21,1320.0,7.6,NULL,95.3
+402,Solar de Alto Sertão,Solar,2025-05-21,710.0,NULL,4550.0,97.6
+403,Eólico de Beberibe,Eólica,2025-05-21,1020.0,7.1,NULL,94.2
+404,Solar de Bom Jesus da Lapa,Solar,2025-05-21,860.0,NULL,5450.0,97.9
+405,Eólico de Mangue Seco,Eólica,2025-05-21,1620.0,8.3,NULL,96.8
+406,Eólico Potiguar,Eólica,2025-05-21,1970.0,8.9,NULL,98.2
+407,Solar da Bahia,Solar,2025-05-21,1010.0,NULL,6350.0,98.6
